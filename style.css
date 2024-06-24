@@ -1,0 +1,14 @@
+body
+{
+    background: linear-gradient(to left, #bc97f7, rgb(252, 64, 64))
+}
+main
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border-style:dotted;
+    
+}
